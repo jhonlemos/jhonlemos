@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou trabalhando atualmente com Front-end
-- 🌱 Estudando Typescript
+- 🌱 Estudando desenvolvimento back-end
 - 📫 contate-me no email: joao.victorlemosdev@gmail.com
 
 ##
