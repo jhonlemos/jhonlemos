@@ -2,7 +2,7 @@
 
 - 🔭 Estou trabalhando atualmente com Front-end
 - 🌱 Estudando desenvolvimento back-end
-- 📫 contate-me no email: joao.victorlemosdev@gmail.com
+- 📫 contate-me no email: joao_victorlemos@hotmail.com
 ##
 <div align="center">
   <a href="https://github.com/jhonlemos">
