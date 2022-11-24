@@ -1,6 +1,6 @@
 ### Bem vindo ao meu Perfil!
 
-- 🔭 Estou trabalhando atualmente com Front-end
+- 🔭 Estou trabalhando atualmente com Back-end
 - 🌱 Estudando desenvolvimento back-end
 - 📫 contate-me no email: joao_victorlemos@hotmail.com
 ##
