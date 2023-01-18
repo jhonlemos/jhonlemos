@@ -1,7 +1,7 @@
 ### Bem vindo ao meu Perfil!
 
-- 🔭 Estou trabalhando atualmente com Back-end
-- 🌱 Estudando desenvolvimento back-end
+- 🔭 Estou a procura de uma oportunidade.
+- 🌱 Desenvolvendo habilidades com fullStack
 - 📫 contate-me no email: joao_victorlemos@hotmail.com
 ##
 <div align="center">
